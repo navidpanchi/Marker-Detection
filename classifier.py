@@ -20,7 +20,7 @@ class classifier(object):
     def classify(self, img):
         self.img = img
         img = np.array(img)
-        return prediction.predict(img.reshape([1,28,28,1]))
+        return self.prediction.predict(img.reshape([1,28,28,1]))
 
 
 if '__name__' == '__main__':
