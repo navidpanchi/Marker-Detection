@@ -1,6 +1,7 @@
 import keras
 from keras.models import load_model
-import np, cv2, os
+import numpy as np
+import cv2, os
 
 class classifier(object):
     """
