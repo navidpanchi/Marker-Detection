@@ -20,7 +20,6 @@ class classifier(object):
     def classify(self, img):
         self.img = img
         img = np.array(img)
-        assert img.shape == [28, 28]
         return prediction.predict(img.reshape([1,28,28,1]))
 
 
