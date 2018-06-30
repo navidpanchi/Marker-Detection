@@ -17,7 +17,8 @@ class classifier(object):
         super(classifier, self).__init__()
         self.prediction = load_model('model.h5')
 
-    def classify(img):
+    def classify(self, img):
+        self.img = img
         img = np.array(img)
         assert img.shape == [28, 28]
         return prediction.predict(img.reshape([1,28,28,1]))
