@@ -11,7 +11,7 @@ Class 1: Marker
 
 Class 2: Non Marker
 
-**How to use: **
+ ## How to use: 
 
 -   Clone this repository to your local working directory.
 
@@ -27,7 +27,7 @@ Class 2: Non Marker
     method for classifying images. Make sure the images are of the
     specified dimensions (28 \* 28).
 
-**Examples of positive and negative classes:**
+## Examples of positive and negative classes:
 
 Positives: (class 1) check in class1 directory
 
