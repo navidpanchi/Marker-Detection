@@ -27,7 +27,7 @@ Class 2: Non Marker
     method for classifying images. Make sure the images are of the
     specified dimensions (28 \* 28).
 
--   The output of classify method is a numpy array containg the predicted 
+-   The output of classify method is a numpy array containing the predicted 
     probability of two classes
 
 ## Examples of positive and negative classes:
