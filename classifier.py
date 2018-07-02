@@ -23,4 +23,5 @@ class classifier(object):
         return self.prediction.predict(img.reshape([1,28,28,1]))
 
 
-if '__name__' == '__main__': print('Error : only to be used as a module')
+if __name__ == '__main__':
+    print('Error : only to be used as a module')
