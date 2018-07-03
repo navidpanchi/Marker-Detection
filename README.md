@@ -5,7 +5,7 @@ final layer with 10 classes was replaced with a layer having two output
 classes. Accuracy is about 93%. 
 
 (network architecture:
-https://github.com/keras-team/keras/blob/master/examples/mnist/_cnn.py)
+https://github.com/keras-team/keras/blob/master/examples/mnist_cnn.py)
 
 Class 1: Marker
 
