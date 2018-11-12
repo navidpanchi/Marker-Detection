@@ -19,8 +19,8 @@ Class 2: Non Marker
 
 -   This will install the required dependencies such as tensorflow and
     Keras. You might want to check before if you have installed these
-    two (tensorflow and Keras) already. Because it might cause conflict
-    between different versions.
+    two (tensorflow and Keras) already. Because it may cause conflict
+    between different versions. Create a different enviroment if this happens.
 
 -   Now you can import classifier module using import statement (import
     classifier). Instantiate a classifier object and then use classify
