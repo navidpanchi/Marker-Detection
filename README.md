@@ -2,7 +2,7 @@
 
 A convolutional neural network pretrained on MNIST dataset was used. The
 final layer with 10 classes was replaced with a layer having two output
-classes. Accuracy is about 93%. (accuracy depends on the type of images used for classification, proper preprocessing will give you a higher accuracy).
+classes. Accuracy is about 93%. (accuracy depends on the type of images used for classification, proper preprocessing will give you a good accuracy).
 
 (network architecture:
 https://github.com/keras-team/keras/blob/master/examples/mnist_cnn.py)
