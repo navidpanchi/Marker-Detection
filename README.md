@@ -35,3 +35,5 @@ Class 2: Non Marker
 Positives: (class 1) check in class1 directory
 
 Negatives: (class 2) check in class2 directory
+
+This module is not be used as a standalone detector.
