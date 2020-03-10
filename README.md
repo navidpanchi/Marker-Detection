@@ -1,4 +1,4 @@
-# Ground Control Point (GCP) Marker Detection module for python 
+# Ground Control Point (GCP) Marker Classification module for python 
 
 A convolutional neural network pretrained on MNIST dataset was used. The
 final layer with 10 classes was replaced with a layer having two output
